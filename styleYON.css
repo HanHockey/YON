@@ -9,7 +9,7 @@ body {
 
 table, th, td {
     height: 35px;
-    width: 75%;
+    width: 100%;
     background-color: yellow;
     font-size: 17px;
 }
