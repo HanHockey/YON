@@ -1,6 +1,7 @@
 <html>
 	<head>
-		<link href="styleYON.css" rel="stylesheet" type="text/css">
+		<link href="css/styleYON.css" rel="stylesheet" type="text/css">
+		<script src="js/function.js">
 	</head>
 	<body>
 	    <div>
@@ -24,11 +25,11 @@
 	            </tr>
 	            <tr>
 	                <td>Enter Yes Or No Question here:</td>
-	                <td><input class="width" type="text" id="question" placeholder="Enter" onKeyUp="plswork()" ></td>
+	                <td><input class="width" type="text" id="question" placeholder="Enter"></td>
 	            </tr>
 	            <tr>
 	                <td>Yes Or No:</td>
-	                <td><input class="width" type="text" id="answer" placeholder="(Yes or No)" ></td>
+	                <td><input class="width" type="text" id="answer" placeholder="(Yes or No)"></td>
 	            </tr>
 	        </table>
 	    </div>
