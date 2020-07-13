@@ -3,7 +3,6 @@
 		<link href="css/styleYON.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
-		<script src="js/function.js"><script>
 	    <div>
 	        <a class="spacing" id="Home" href="">Home</a>
 	        <a class="spacing" id="ABout" href="">About Us</a>
