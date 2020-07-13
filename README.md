@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<link href="css/styleYON.css" rel="stylesheet" type="text/css">
+		<link href="./styleYON.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 	    <div>
